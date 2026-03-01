@@ -1,5 +1,6 @@
 <div align="center">
 
+**A futuristic full-stack blood donation portal — React 18 · Node.js · MongoDB**
 
 ```
 ██████╗ ██╗      ██████╗  ██████╗ ██████╗
